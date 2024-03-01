@@ -1,0 +1,1 @@
+All codes come from Scott Meyer's Effective Modern C++ book.
